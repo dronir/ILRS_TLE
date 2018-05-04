@@ -20,5 +20,5 @@ spacetrack_config = {
 
 Then just run `python get_ILRS_TLE.py`.
 
-[ILRS website]: (https://ilrs.cddis.eosdis.nasa.gov/missions/satellite_missions/current_missions/index.html) 
-[Space-Track]: (https://www.space-track.org/auth/login)
+[ILRS website]: https://ilrs.cddis.eosdis.nasa.gov/missions/satellite_missions/current_missions/index.html
+[Space-Track]: https://www.space-track.org/auth/login
